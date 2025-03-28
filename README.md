@@ -1,3 +1,17 @@
+# node-real-debrid (Working Fork)
+
+This is a fork of the [`node-real-debrid`](https://github.com/atombarel/node-real-debrid) library, which stopped working correctly after switching to `axios`.
+
+The original working fork was created by [DavidRayner](https://github.com/DavidRayner):  
+🔗 **[DavidRayner/node-real-debrid](https://github.com/DavidRayner/node-real-debrid)**
+
+This package was published on npm solely to provide a working, installable version.
+
+## Installation
+
+```sh
+npm install @andrellibus/node-real-debrid
+
 # Usage example
 	npm install real-debrid-api --save
 ```javascript
