@@ -8,7 +8,7 @@ The original working fork was created by [DavidRayner](https://github.com/DavidR
 This package was published on npm solely to provide a working, installable version.
 
 ## Usage example
-	npm install @andrellibus/node-real-debrid
+	npm install github:andrellibus/real-debrid-api
 ```javascript
 const RealDebridClient = require('real-debrid-api')
 const RD = new RealDebridClient('Your API Token')
